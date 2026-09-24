@@ -1,0 +1,36 @@
+{
+  "id": "synthetic-demo-only",
+  "title": "一份清单，能减少内容交接的来回确认吗？",
+  "audience": "同时管理多个账号的小团队",
+  "reader_job": "看懂交接如何记录，并决定是否试用一个流程",
+  "body": "设想一个三人团队。稿子写完了，大家却不知道谁批准了最终版本。\n\n我们假设，一份交接清单可以减少来回确认。这个想法还没有经过团队实测。\n\n读完就能下载已经上线的清单。",
+  "annotations": {
+    "claims_complete": false,
+    "promises_complete": false,
+    "reviewed_sha256": null
+  },
+  "claims": [
+    {
+      "id": "C1",
+      "excerpt": "我们假设，一份交接清单可以减少来回确认。",
+      "status": "assumption",
+      "framing": "hypothesis",
+      "source": null
+    }
+  ],
+  "promises": [
+    {
+      "excerpt": "读完就能下载已经上线的清单。",
+      "status": "planned",
+      "location": null,
+      "checked": false
+    }
+  ],
+  "ratings": {
+    "reader_value": {
+      "score": 3,
+      "note": "示例编辑意见：对象与问题清楚，但效果还未验证。"
+    }
+  },
+  "data_note": "全部虚构。故意放入未完成的交付承诺，演示检查程序。"
+}

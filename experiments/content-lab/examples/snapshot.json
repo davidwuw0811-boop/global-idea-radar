@@ -1,0 +1,23 @@
+{
+  "author": "synthetic-author",
+  "platform": "X",
+  "format": "long_post",
+  "topic": "workflow",
+  "length_band": "1000-2000",
+  "window_hours": 24,
+  "distribution": "organic",
+  "metric_basis": "post_views",
+  "measurement_method": "synthetic_demo",
+  "counts_approximate": false,
+  "data_note": "全部为虚构测试数据，不是账号表现。",
+  "id": "synthetic-target",
+  "published_at": "2026-01-20T00:00:00Z",
+  "observed_at": "2026-01-21T00:00:00Z",
+  "views": 6000,
+  "likes": 50,
+  "replies": 9,
+  "reposts": 12,
+  "bookmarks": 30,
+  "follows": null,
+  "qualified_inquiries": null
+}
